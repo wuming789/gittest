@@ -1,3 +1,3 @@
 # gittest
 dev branch
-asdfkaj
+creating a new branch is quick and simple
